@@ -2,6 +2,8 @@
 
 CEP de Guadix
 
+https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/181813GE014/
+
 (6 horas)
 
 14 y 21 de noviembre
