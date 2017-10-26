@@ -84,6 +84,8 @@ Se hablará del manejo de impresoras 3D, viendo su estructura y cómo manejarlas
 ## [Proceso de impresión](./Proceso_de_Impresion.md)
 ### Mantenimiento y cuidados
 ### [Solución de Problemas](./Problemas.md)
+### [DaVinci](./Davinci.md)
+
 
 # [Diseño 3D](Disenio3D.md)
 
